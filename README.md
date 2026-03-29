@@ -1,106 +1,87 @@
-<h1 align="center">Osman Can Çetlenbik</h1>
-<h3 align="center">Computer Programming Lecturer | Cybersecurity & AI Researcher</h3>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&lines=Computer+Programming+Lecturer;MSc+in+Cybersecurity+%26+AI;Full-Stack+Developer+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Osman%20Can%20%C3%87etlenbik&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Programming%20Lecturer%20%E2%80%A2%20Cybersecurity%20%26%20AI%20Researcher&descSize=15&descAlignY=52&descColor=fff" width="100%" />
+
+Computer Programming Lecturer • Cybersecurity & AI • Full-Stack Developer • Open Source
 
 </div>
 
 ---
 
-## About Me
+### 🎓 About Me
 
-I'm a **Computer Programming Lecturer** at Kütahya Dumlupınar University (Simav Vocational School), teaching courses in AI, cybersecurity, web & mobile development. I hold an **MSc in Computer Engineering** (GPA: 3.93) with a research focus on **cybersecurity** and **artificial intelligence** — specifically NLP-based phishing detection and ML-driven market prediction.
-
-I build full-stack production systems with modern technologies and contribute to open-source projects. My work bridges **academia and industry**, combining research rigor with hands-on engineering.
-
-- Currently teaching **7 courses**: AI, Mobile Programming, Web Development, Medical Informatics, Open Source OS, Sensors & Transducers, AI Applications
-- Research interests: **NLP for cybersecurity**, **phishing detection with transformers**, **algorithmic trading**
-- Building SaaS platforms, trading engines, and educational tools
+- 🏫 **Lecturer** at Kütahya Dumlupınar University — Simav Vocational School
+- 🎯 Focused on **Cybersecurity, Artificial Intelligence**, Full-Stack Web & Mobile Development
+- 🔬 MSc in Computer Engineering (GPA: 3.93) — research on **NLP-based phishing detection & ML-driven market prediction**
+- 💻 Building production-grade **SaaS platforms**, **trading engines**, and **educational tools**
+- 🌐 Open to: research collaborations, consulting, open-source contributions
+- 📫 Contact: osmancancetlenbik@gmail.com
 
 ---
 
-## Hakkımda
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,py,js,nextjs,react,tailwind,nestjs,nodejs,prisma,postgres,pytorch,docker,linux,git,vercel,figma&perline=8" />
+
+</div>
+
+---
+
+### ⭐ Featured Projects
+
+#### 🐾 PatiVet — Veterinary Clinic Management SaaS
+Full-stack veterinary platform with 4-tier RBAC, AES-256 encryption, Twilio SMS & email notifications.
+**Tech:** Next.js, TypeScript, Prisma, PostgreSQL, NextAuth
+
+#### ☁️ BilgeBulut — School Management SaaS
+Multi-tenant school management platform with DDD architecture and JWT authentication.
+**Tech:** NestJS, TypeScript, Prisma, PostgreSQL
+
+#### 📈 Crypto Trading Engine
+Multi-strategy consensus trading bot with 8 technical analysis strategies and real-time dashboard.
+**Tech:** Python, FastAPI, CCXT, Pandas
+
+#### 📊 BIST Analiz — Stock Market Analysis
+AI-powered Borsa Istanbul stock analysis platform with real-time data and interactive charts.
+**Tech:** Next.js, TypeScript, Prisma, Recharts, Google AI
+
+#### 🏛️ Dijital Enderun — Educational Platform
+Interactive educational platform for political science with 25+ modules.
+**Tech:** Next.js 16, React 19, Framer Motion
+
+---
+
+### 📄 Academic Publications
+
+1. 📝 **Classification of Phishing Attacks Using the RoBERTa Model**
+2. 📝 **IoT Security and Software Testing**
+3. 📝 **Examining the Results of Phishing Attacks in a Sample Attack Simulation**
+4. 📝 **Hybrid Approaches to Price Prediction in Cryptocurrency Markets: ML and Technical Analysis**
+
+---
+
+### 🇹🇷 Hakkımda
 
 Kütahya Dumlupınar Üniversitesi Simav MYO'da **öğretim görevlisi** olarak yapay zekâ, siber güvenlik, web ve mobil programlama dersleri veriyorum. Bilgisayar Mühendisliği yüksek lisansımı (GPA: 3.93) **siber güvenlik ve yapay zekâ** alanında tamamladım. Akademik araştırmalarımın yanı sıra full-stack SaaS platformları, ticaret botları ve eğitim araçları geliştiriyorum.
 
 ---
 
-## Tech Stack
+### 🌐 Connect with Me
 
 <div align="center">
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-**Backend & Database**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Security & DevOps**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmancancetlenbik)
+[![Website](https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.osmancancetlenbik.com)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osmancancetlenbik@gmail.com)
 
 </div>
 
 ---
 
-## Featured Projects
-
 <div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[PatiVet](https://github.com/osmancancet/pativet)** | Full-stack Veterinary SaaS with RBAC, AES-256 encryption, SMS/email notifications | Next.js, Prisma, PostgreSQL, TypeScript |
-| **[BilgeBulut](https://github.com/osmancancet/bilgebulut)** | Multi-tenant school management SaaS with DDD architecture | NestJS, Prisma, PostgreSQL, JWT |
-| **[Crypto Trading Engine](https://github.com/osmancancet/crypto-trading-engine)** | Multi-strategy consensus trading bot with 8 technical analysis strategies | Python, FastAPI, CCXT |
-| **[BIST Analiz](https://github.com/osmancancet/bist-analiz)** | AI-powered Borsa Istanbul stock analysis platform | Next.js, Prisma, Recharts, Google AI |
-| **[Dijital Enderun](https://github.com/osmancancet/dijitalenderun)** | Interactive educational platform for political science | Next.js 16, React 19, Framer Motion |
-
-</div>
-
----
-
-## Academic Publications
-
-1. **Classification of Phishing Attacks Using the RoBERTa Model** — NLP-based phishing detection with transformer architecture
-2. **IoT Security and Software Testing** — Security analysis of IoT systems
-3. **Examining the Results of Phishing Attacks in a Sample Attack Simulation** — Empirical phishing simulation study
-4. **Hybrid Approaches to Price Prediction in Cryptocurrency Markets: Machine Learning and Technical Analysis** — ML-driven market prediction
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmancancetlenbik)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.osmancancetlenbik.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osmancancetlenbik@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
