@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a **Computer Engineering Instructor** at Kutahya Dumlupinar University (Simav Vocational School), teaching courses in AI, cybersecurity, web & mobile development. I hold an **MSc in Computer Engineering** (GPA: 3.93) with a research focus on **cybersecurity** and **artificial intelligence** — specifically NLP-based phishing detection and ML-driven market prediction.
+I'm a **Lecturer** at Kutahya Dumlupinar University (Simav Vocational School), teaching courses in AI, cybersecurity, web & mobile development. I hold an **MSc in Computer Engineering** (GPA: 3.93) with a research focus on **cybersecurity** and **artificial intelligence** — specifically NLP-based phishing detection and ML-driven market prediction.
 
 I build full-stack production systems with modern technologies and contribute to open-source projects. My work bridges **academia and industry**, combining research rigor with hands-on engineering.
 
