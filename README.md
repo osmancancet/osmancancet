@@ -1,8 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Osman%20Can%20%C3%87etlenbik&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Computer%20Programming%20Lecturer%20%7C%20Cybersecurity%20%26%20AI%20Researcher&descSize=16&descColor=8b949e&descAlignY=55" />
+<h1 align="center">Osman Can Çetlenbik</h1>
+<h3 align="center">Computer Programming Lecturer | Cybersecurity & AI Researcher</h3>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=CS+Lecturer+%40+Kutahya+Dumlupinar+University;MSc+in+Cybersecurity+%26+Artificial+Intelligence;Full-Stack+Developer+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&lines=Computer+Programming+Lecturer;MSc+in+Cybersecurity+%26+AI;Full-Stack+Developer+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,13 +11,19 @@
 
 ## About Me
 
-I'm a **Computer Programming Lecturer** at Kutahya Dumlupinar University (Simav Vocational School), teaching courses in AI, cybersecurity, web & mobile development. I hold an **MSc in Computer Engineering** (GPA: 3.93) with a research focus on **cybersecurity** and **artificial intelligence** — specifically NLP-based phishing detection and ML-driven market prediction.
+I'm a **Computer Programming Lecturer** at Kütahya Dumlupınar University (Simav Vocational School), teaching courses in AI, cybersecurity, web & mobile development. I hold an **MSc in Computer Engineering** (GPA: 3.93) with a research focus on **cybersecurity** and **artificial intelligence** — specifically NLP-based phishing detection and ML-driven market prediction.
 
 I build full-stack production systems with modern technologies and contribute to open-source projects. My work bridges **academia and industry**, combining research rigor with hands-on engineering.
 
 - Currently teaching **7 courses**: AI, Mobile Programming, Web Development, Medical Informatics, Open Source OS, Sensors & Transducers, AI Applications
 - Research interests: **NLP for cybersecurity**, **phishing detection with transformers**, **algorithmic trading**
 - Building SaaS platforms, trading engines, and educational tools
+
+---
+
+## Hakkımda
+
+Kütahya Dumlupınar Üniversitesi Simav MYO'da **öğretim görevlisi** olarak yapay zekâ, siber güvenlik, web ve mobil programlama dersleri veriyorum. Bilgisayar Mühendisliği yüksek lisansımı (GPA: 3.93) **siber güvenlik ve yapay zekâ** alanında tamamladım. Akademik araştırmalarımın yanı sıra full-stack SaaS platformları, ticaret botları ve eğitim araçları geliştiriyorum.
 
 ---
 
@@ -72,6 +79,7 @@ I build full-stack production systems with modern technologies and contribute to
 | **[PatiVet](https://github.com/osmancancet/pativet)** | Full-stack Veterinary SaaS with RBAC, AES-256 encryption, SMS/email notifications | Next.js, Prisma, PostgreSQL, TypeScript |
 | **[BilgeBulut](https://github.com/osmancancet/bilgebulut)** | Multi-tenant school management SaaS with DDD architecture | NestJS, Prisma, PostgreSQL, JWT |
 | **[Crypto Trading Engine](https://github.com/osmancancet/crypto-trading-engine)** | Multi-strategy consensus trading bot with 8 technical analysis strategies | Python, FastAPI, CCXT |
+| **[BIST Analiz](https://github.com/osmancancet/bist-analiz)** | AI-powered Borsa Istanbul stock analysis platform | Next.js, Prisma, Recharts, Google AI |
 | **[Dijital Enderun](https://github.com/osmancancet/dijitalenderun)** | Interactive educational platform for political science | Next.js 16, React 19, Framer Motion |
 
 </div>
@@ -91,22 +99,13 @@ I build full-stack production systems with modern technologies and contribute to
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=osmancancet&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=osmancancet&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osmancancet&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=osmancancet&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osmancancet&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
 
 </div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmancancet&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
----
-
-## Hakkimda (TR)
-
-Kutahya Dumlupinar Universitesi Simav MYO'da **ogretim gorevlisi** olarak yapay zeka, siber guvenlik, web ve mobil programlama dersleri veriyorum. Bilgisayar Muhendisligi yuksek lisansimi (GPA: 3.93) **siber guvenlik ve yapay zeka** alaninda tamamladim. Akademik arastirmalarimin yaninda full-stack SaaS platformlari, ticaret botlari ve egitim araclari gelistiriyorum.
 
 ---
 
@@ -119,5 +118,3 @@ Kutahya Dumlupinar Universitesi Simav MYO'da **ogretim gorevlisi** olarak yapay 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osmancancetlenbik@gmail.com)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=100&section=footer" />
