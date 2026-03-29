@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Osman%20Can%20%C3%87etlenbik&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Instructor%20%7C%20Cybersecurity%20%26%20AI%20Researcher&descSize=16&descColor=8b949e&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Osman%20Can%20%C3%87etlenbik&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Lecturer%20%7C%20Cybersecurity%20%26%20AI%20Researcher&descSize=16&descColor=8b949e&descAlignY=55" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=CS+Instructor+%40+Kutahya+Dumlupinar+University;MSc+in+Cybersecurity+%26+Artificial+Intelligence;Full-Stack+Developer+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=CS+Lecturer+%40+Kutahya+Dumlupinar+University;MSc+in+Cybersecurity+%26+Artificial+Intelligence;Full-Stack+Developer+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a **Lecturer** at Kutahya Dumlupinar University (Simav Vocational School), teaching courses in AI, cybersecurity, web & mobile development. I hold an **MSc in Computer Engineering** (GPA: 3.93) with a research focus on **cybersecurity** and **artificial intelligence** — specifically NLP-based phishing detection and ML-driven market prediction.
+I'm a **Computer Engineering Lecturer** at Kutahya Dumlupinar University (Simav Vocational School), teaching courses in AI, cybersecurity, web & mobile development. I hold an **MSc in Computer Engineering** (GPA: 3.93) with a research focus on **cybersecurity** and **artificial intelligence** — specifically NLP-based phishing detection and ML-driven market prediction.
 
 I build full-stack production systems with modern technologies and contribute to open-source projects. My work bridges **academia and industry**, combining research rigor with hands-on engineering.
 
