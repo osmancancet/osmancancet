@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=220&section=header&text=Osman%20Can%20%C3%87etlenbik&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Programming%20Lecturer%20%E2%80%A2%20Cybersecurity%20%26%20AI%20Researcher&descSize=16&descAlignY=55&descColor=e2e8f0" />
+
 </p>
 
 <p align="center">
