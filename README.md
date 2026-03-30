@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=220&section=header&text=Osman%20Can%20%C3%87etlenbik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Programming%20Lecturer%20%E2%80%A2%20Cybersecurity%20%26%20AI%20Researcher&descSize=16&descAlignY=55&descColor=8b949e" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=220&section=header&text=Osman%20Can%20%C3%87etlenbik&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Programming%20Lecturer%20%E2%80%A2%20Cybersecurity%20%26%20AI%20Researcher&descSize=16&descAlignY=55&descColor=e2e8f0" />
 </p>
 
 <p align="center">
@@ -12,6 +12,9 @@
   </a>
   <a href="mailto:osmancancetlenbik@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/osmancancet">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <a href="https://github.com/osmancancet">
     <img src="https://komarev.com/ghpvc/?username=osmancancet&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
@@ -164,5 +167,5 @@ Kütahya Dumlupınar Üniversitesi Simav MYO'da **öğretim görevlisi** olarak 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a1b27,100:0d1117&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:4f46e5&height=120&section=footer" />
 </p>
