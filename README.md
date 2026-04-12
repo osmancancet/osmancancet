@@ -31,14 +31,14 @@
 
 ```yaml
 Name: Osman Can Çetlenbik
-Role: Computer Programming Lecturer @ Kütahya Dumlupınar University
+Role: Computer Programming Lecturer @ Manisa Celal Bayar University
 Education: MSc Computer Engineering (GPA: 3.93) — Cybersecurity & AI
 Research: NLP-based Phishing Detection, ML-driven Market Prediction
 Teaching: AI, Mobile Programming, Web Dev, Medical Informatics, Cybersecurity
-Location: Kütahya, Turkey
+Location: Manisa, Turkey
 ```
 
-- 🏫 **Lecturer** at Manisa Celal Bayar University — Simav Vocational School
+- 🏫 **Lecturer** at Manisa Celal Bayar University — Technical Sciences Vocational School
 - 🔬 **4 published papers** on cybersecurity, NLP, IoT security, and crypto market prediction
 - 🛠 Currently building: **PatiVet SaaS**, **Crypto Trading Engine**, **BIST Analiz**
 - 🌐 Open to: research collaborations, consulting, open-source contributions
