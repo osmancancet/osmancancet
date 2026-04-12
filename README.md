@@ -38,7 +38,7 @@ Teaching: AI, Mobile Programming, Web Dev, Medical Informatics, Cybersecurity
 Location: Kütahya, Turkey
 ```
 
-- 🏫 **Lecturer** at Kütahya Dumlupınar University — Simav Vocational School
+- 🏫 **Lecturer** at Manisa Celal Bayar University — Simav Vocational School
 - 🔬 **4 published papers** on cybersecurity, NLP, IoT security, and crypto market prediction
 - 🛠 Currently building: **PatiVet SaaS**, **Crypto Trading Engine**, **BIST Analiz**
 - 🌐 Open to: research collaborations, consulting, open-source contributions
@@ -162,7 +162,7 @@ Location: Kütahya, Turkey
 
 ## 🇹🇷 Hakkımda
 
-Kütahya Dumlupınar Üniversitesi Simav MYO'da **öğretim görevlisi** olarak yapay zekâ, siber güvenlik, web ve mobil programlama dersleri veriyorum. Bilgisayar Mühendisliği yüksek lisansımı (GPA: 3.93) **siber güvenlik ve yapay zekâ** alanında tamamladım. Akademik araştırmalarımın yanı sıra full-stack SaaS platformları, ticaret botları ve eğitim araçları geliştiriyorum.
+Manisa Celal Bayar Üniversitesi Teknik Bilimler MYO'da **öğretim görevlisi** olarak yapay zekâ, siber güvenlik, web ve mobil programlama dersleri veriyorum. Bilgisayar Mühendisliği yüksek lisansımı (GPA: 3.93) **siber güvenlik ve yapay zekâ** alanında tamamladım. Akademik araştırmalarımın yanı sıra full-stack SaaS platformları, ticaret botları ve eğitim araçları geliştiriyorum.
 
 ---
 
