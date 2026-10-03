@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Osman Can Çetlenbik, Lecturer in Big Data Analytics at Manisa Celal Bayar University" src="./assets/header-dark.svg" width="100%">
-</picture>
+<img alt="Osman Can Çetlenbik, Lecturer in Big Data Analytics at Manisa Celal Bayar University" src="./assets/header.svg" width="100%">
 
 <p align="center">
   <a href="https://avesis.mcbu.edu.tr/osman.cetlenbik"><img src="https://img.shields.io/badge/AVES%C4%B0S-Academic_Profile-1F4E79?style=flat-square" alt="AVESİS"/></a>
@@ -127,8 +123,4 @@ Ders materyalleri ve duyurular: [osmancancetlenbik.com](https://osmancancetlenbi
 
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
-  <img alt="" src="./assets/footer-dark.svg" width="100%">
-</picture>
+<img alt="" src="./assets/footer.svg" width="100%">
