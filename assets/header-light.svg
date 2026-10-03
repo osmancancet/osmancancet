@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Osman Can Çetlenbik — Lecturer, Big Data Analytics, Manisa Celal Bayar University">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6f8fa"/><stop offset="1" stop-color="#dbeafe"/></linearGradient>
+ <linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#0969da" stop-opacity="0"/><stop offset=".5" stop-color="#0969da" stop-opacity=".18"/><stop offset="1" stop-color="#0969da" stop-opacity="0"/></linearGradient>
+ <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#f6f8fa" stop-opacity="1"/><stop offset=".55" stop-color="#f6f8fa" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+ .edge{stroke:#0969da;stroke-width:1;stroke-opacity:.18;animation:pulse 4.2s ease-in-out infinite}
+ .node{fill:#0550ae;animation:blink 3.6s ease-in-out infinite}
+ .pkt{fill:#1a7f37}
+ .name{font:700 54px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#0d1117;opacity:0;animation:rise 1s .2s cubic-bezier(.2,.7,.2,1) forwards}
+ .role{font:500 21px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#475569;opacity:0;animation:rise 1s .6s cubic-bezier(.2,.7,.2,1) forwards}
+ .prompt{font:600 22px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#1a7f37;opacity:0;animation:fadein .6s 1.1s forwards}
+ .type{font:500 22px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#0969da}
+ .bar{fill:#0969da;opacity:0;animation:fadein .6s 1s forwards}
+ .scan{animation:sweep 7s linear infinite}
+ @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+ @keyframes fadein{to{opacity:1}}
+ @keyframes pulse{0%,100%{stroke-opacity:.12}50%{stroke-opacity:.45}}
+ @keyframes blink{0%,100%{opacity:.45}50%{opacity:1}}
+ @keyframes sweep{from{transform:translateX(-400px)}to{transform:translateX(1600px)}}
+</style>
+<rect width="1200" height="320" rx="14" fill="url(#bg)"/>
+<g><line x1="893" y1="66" x2="946" y2="106" class="edge" style="animation-delay:0.0s"/>
+<line x1="893" y1="66" x2="819" y2="57" class="edge" style="animation-delay:0.6s"/>
+<line x1="1027" y1="45" x2="985" y2="42" class="edge" style="animation-delay:1.2s"/>
+<line x1="1027" y1="45" x2="1022" y2="126" class="edge" style="animation-delay:1.8s"/>
+<line x1="980" y1="124" x2="997" y2="132" class="edge" style="animation-delay:2.4s"/>
+<line x1="980" y1="124" x2="946" y2="106" class="edge" style="animation-delay:3.0s"/>
+<line x1="784" y1="162" x2="775" y2="142" class="edge" style="animation-delay:3.6s"/>
+<line x1="784" y1="162" x2="834" y2="182" class="edge" style="animation-delay:0.0s"/>
+<line x1="775" y1="142" x2="784" y2="81" class="edge" style="animation-delay:0.6s"/>
+<line x1="789" y1="49" x2="819" y2="57" class="edge" style="animation-delay:1.2s"/>
+<line x1="789" y1="49" x2="784" y2="81" class="edge" style="animation-delay:1.8s"/>
+<line x1="934" y1="248" x2="886" y2="245" class="edge" style="animation-delay:2.4s"/>
+<line x1="934" y1="248" x2="889" y2="183" class="edge" style="animation-delay:3.0s"/>
+<line x1="811" y1="85" x2="784" y2="81" class="edge" style="animation-delay:3.6s"/>
+<line x1="811" y1="85" x2="819" y2="57" class="edge" style="animation-delay:0.0s"/>
+<line x1="1017" y1="281" x2="934" y2="248" class="edge" style="animation-delay:0.6s"/>
+<line x1="1017" y1="281" x2="1086" y2="214" class="edge" style="animation-delay:1.2s"/>
+<line x1="997" y1="132" x2="1022" y2="126" class="edge" style="animation-delay:1.8s"/>
+<line x1="1160" y1="38" x2="1112" y2="103" class="edge" style="animation-delay:2.4s"/>
+<line x1="1160" y1="38" x2="1027" y2="45" class="edge" style="animation-delay:3.0s"/>
+<line x1="1112" y1="103" x2="1039" y2="140" class="edge" style="animation-delay:3.6s"/>
+<line x1="886" y1="245" x2="889" y2="183" class="edge" style="animation-delay:0.0s"/>
+<line x1="834" y1="182" x2="889" y2="183" class="edge" style="animation-delay:0.6s"/>
+<line x1="1022" y1="126" x2="1039" y2="140" class="edge" style="animation-delay:1.2s"/>
+<line x1="985" y1="42" x2="946" y2="106" class="edge" style="animation-delay:1.8s"/>
+<line x1="1039" y1="140" x2="997" y2="132" class="edge" style="animation-delay:2.4s"/>
+<line x1="946" y1="106" x2="997" y2="132" class="edge" style="animation-delay:3.0s"/>
+<line x1="1086" y1="214" x2="1039" y2="140" class="edge" style="animation-delay:3.6s"/>
+<circle cx="893" cy="66" r="3" class="node" style="animation-delay:0.3s"/>
+<circle cx="1027" cy="45" r="3.5" class="node" style="animation-delay:2.1s"/>
+<circle cx="980" cy="124" r="3.5" class="node" style="animation-delay:2.9s"/>
+<circle cx="784" cy="162" r="3.5" class="node" style="animation-delay:2.4s"/>
+<circle cx="775" cy="142" r="2.5" class="node" style="animation-delay:0.5s"/>
+<circle cx="789" cy="49" r="4.5" class="node" style="animation-delay:0.7s"/>
+<circle cx="934" cy="248" r="3.5" class="node" style="animation-delay:0.6s"/>
+<circle cx="811" cy="85" r="4.5" class="node" style="animation-delay:1.7s"/>
+<circle cx="1017" cy="281" r="2.5" class="node" style="animation-delay:3.1s"/>
+<circle cx="997" cy="132" r="3.5" class="node" style="animation-delay:1.4s"/>
+<circle cx="1160" cy="38" r="3.5" class="node" style="animation-delay:2.4s"/>
+<circle cx="1112" cy="103" r="4.5" class="node" style="animation-delay:0.3s"/>
+<circle cx="819" cy="57" r="2.5" class="node" style="animation-delay:3.8s"/>
+<circle cx="886" cy="245" r="4.5" class="node" style="animation-delay:2.8s"/>
+<circle cx="834" cy="182" r="2.5" class="node" style="animation-delay:0.2s"/>
+<circle cx="1022" cy="126" r="3.5" class="node" style="animation-delay:2.6s"/>
+<circle cx="985" cy="42" r="4.5" class="node" style="animation-delay:1.1s"/>
+<circle cx="784" cy="81" r="4.5" class="node" style="animation-delay:3.5s"/>
+<circle cx="1039" cy="140" r="3.5" class="node" style="animation-delay:0.1s"/>
+<circle cx="889" cy="183" r="4.5" class="node" style="animation-delay:1.4s"/>
+<circle cx="946" cy="106" r="2.5" class="node" style="animation-delay:2.0s"/>
+<circle cx="1086" cy="214" r="3" class="node" style="animation-delay:3.1s"/>
+<circle r="2.2" class="pkt"><animateMotion dur="2.8s" repeatCount="indefinite" begin="0.0s" path="M893,66 L946,106"/></circle><circle r="2.2" class="pkt"><animateMotion dur="3.0s" repeatCount="indefinite" begin="0.4s" path="M1027,45 L1022,126"/></circle><circle r="2.2" class="pkt"><animateMotion dur="3.3s" repeatCount="indefinite" begin="0.8s" path="M784,162 L775,142"/></circle><circle r="2.2" class="pkt"><animateMotion dur="4.2s" repeatCount="indefinite" begin="1.2s" path="M789,49 L819,57"/></circle><circle r="2.2" class="pkt"><animateMotion dur="2.7s" repeatCount="indefinite" begin="1.6s" path="M934,248 L889,183"/></circle><circle r="2.2" class="pkt"><animateMotion dur="3.4s" repeatCount="indefinite" begin="2.0s" path="M1017,281 L934,248"/></circle><circle r="2.2" class="pkt"><animateMotion dur="3.6s" repeatCount="indefinite" begin="2.4s" path="M1160,38 L1112,103"/></circle><circle r="2.2" class="pkt"><animateMotion dur="4.3s" repeatCount="indefinite" begin="2.8s" path="M886,245 L889,183"/></circle><circle r="2.2" class="pkt"><animateMotion dur="4.1s" repeatCount="indefinite" begin="3.2s" path="M985,42 L946,106"/></circle><circle r="2.2" class="pkt"><animateMotion dur="4.2s" repeatCount="indefinite" begin="3.6s" path="M1086,214 L1039,140"/></circle></g>
+<rect width="1200" height="320" rx="14" fill="url(#fade)"/>
+<rect class="scan" x="0" y="0" width="300" height="320" fill="url(#scan)"/>
+<rect class="bar" x="60" y="70" width="5" height="160" rx="2.5"/>
+<text x="92" y="122" class="name">Osman Can Çetlenbik</text>
+<text x="94" y="166" class="role">Lecturer · Big Data Analytics · Manisa Celal Bayar University</text>
+<text x="94" y="198" class="role" style="animation-delay:.8s">Deputy Director, Computer Research &amp; Application Center (BUAM)</text>
+<text x="72" y="246" class="prompt">›</text>
+<style>
+ @keyframes ty0{0%,0.00%{transform:scaleX(0)} 7.00%,16.50%{transform:scaleX(1)} 19.00%,100%{transform:scaleX(0)}}
+ @keyframes op0{0%,0.00%{opacity:0} 0.01%,19.00%{opacity:1} 19.01%,100%{opacity:0}}
+ #cr0{transform-box:fill-box;transform-origin:0 0;transform:scaleX(0);animation:ty0 20.0s infinite;animation-timing-function:steps(39,end)}
+ #tg0{animation:op0 20.0s linear infinite}
+</style>
+<clipPath id="cp0"><rect id="cr0" x="96" y="222" height="34" width="519"/></clipPath>
+<g id="tg0" opacity="0"><text x="96" y="246" class="type" clip-path="url(#cp0)">phishing &amp; social-engineering detection</text></g><style>
+ @keyframes ty1{0%,20.00%{transform:scaleX(0)} 27.00%,36.50%{transform:scaleX(1)} 39.00%,100%{transform:scaleX(0)}}
+ @keyframes op1{0%,20.00%{opacity:0} 20.01%,39.00%{opacity:1} 39.01%,100%{opacity:0}}
+ #cr1{transform-box:fill-box;transform-origin:0 0;transform:scaleX(0);animation:ty1 20.0s infinite;animation-timing-function:steps(38,end)}
+ #tg1{animation:op1 20.0s linear infinite}
+</style>
+<clipPath id="cp1"><rect id="cr1" x="96" y="222" height="34" width="506"/></clipPath>
+<g id="tg1" opacity="0"><text x="96" y="246" class="type" clip-path="url(#cp1)">Turkish NLP corpora and leakage audits</text></g><style>
+ @keyframes ty2{0%,40.00%{transform:scaleX(0)} 47.00%,56.50%{transform:scaleX(1)} 59.00%,100%{transform:scaleX(0)}}
+ @keyframes op2{0%,40.00%{opacity:0} 40.01%,59.00%{opacity:1} 59.01%,100%{opacity:0}}
+ #cr2{transform-box:fill-box;transform-origin:0 0;transform:scaleX(0);animation:ty2 20.0s infinite;animation-timing-function:steps(34,end)}
+ #tg2{animation:op2 20.0s linear infinite}
+</style>
+<clipPath id="cp2"><rect id="cr2" x="96" y="222" height="34" width="453"/></clipPath>
+<g id="tg2" opacity="0"><text x="96" y="246" class="type" clip-path="url(#cp2)">explainable AI for trading signals</text></g><style>
+ @keyframes ty3{0%,60.00%{transform:scaleX(0)} 67.00%,76.50%{transform:scaleX(1)} 79.00%,100%{transform:scaleX(0)}}
+ @keyframes op3{0%,60.00%{opacity:0} 60.01%,79.00%{opacity:1} 79.01%,100%{opacity:0}}
+ #cr3{transform-box:fill-box;transform-origin:0 0;transform:scaleX(0);animation:ty3 20.0s infinite;animation-timing-function:steps(27,end)}
+ #tg3{animation:op3 20.0s linear infinite}
+</style>
+<clipPath id="cp3"><rect id="cr3" x="96" y="222" height="34" width="360"/></clipPath>
+<g id="tg3" opacity="0"><text x="96" y="246" class="type" clip-path="url(#cp3)">smart-grid and IoT security</text></g><style>
+ @keyframes ty4{0%,80.00%{transform:scaleX(0)} 87.00%,96.50%{transform:scaleX(1)} 99.00%,100%{transform:scaleX(0)}}
+ @keyframes op4{0%,80.00%{opacity:0} 80.01%,99.00%{opacity:1} 99.01%,100%{opacity:0}}
+ #cr4{transform-box:fill-box;transform-origin:0 0;transform:scaleX(0);animation:ty4 20.0s infinite;animation-timing-function:steps(27,end)}
+ #tg4{animation:op4 20.0s linear infinite}
+</style>
+<clipPath id="cp4"><rect id="cr4" x="96" y="222" height="34" width="360"/></clipPath>
+<g id="tg4" opacity="0"><text x="96" y="246" class="type" clip-path="url(#cp4)">teaching big data analytics</text></g>
+</svg>

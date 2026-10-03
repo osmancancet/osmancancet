@@ -1,9 +1,8 @@
-<h1 align="center">Osman Can Çetlenbik</h1>
-
-<p align="center">
-  <b>Lecturer · Big Data Analytics Program, Manisa Celal Bayar University</b><br/>
-  Cybersecurity · Natural Language Processing · Explainable AI · Financial Data Science
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Osman Can Çetlenbik, Lecturer in Big Data Analytics at Manisa Celal Bayar University" src="./assets/header-dark.svg" width="100%">
+</picture>
 
 <p align="center">
   <a href="https://avesis.mcbu.edu.tr/osman.cetlenbik"><img src="https://img.shields.io/badge/AVES%C4%B0S-Academic_Profile-1F4E79?style=flat-square" alt="AVESİS"/></a>
@@ -106,6 +105,16 @@ Course materials and weekly content are published at **[osmancancetlenbik.com](h
 
 ---
 
+### Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osmancancet/osmancancet/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osmancancet/osmancancet/output/snake-light.svg">
+  <img alt="Contribution graph animated as a snake" src="https://raw.githubusercontent.com/osmancancet/osmancancet/output/snake-dark.svg" width="100%">
+</picture>
+
+---
+
 <details>
 <summary><b>🇹🇷 Türkçe özet</b></summary>
 <br/>
@@ -117,3 +126,9 @@ Manisa Celal Bayar Üniversitesi Manisa Teknik Bilimler MYO, İstatistik Bölüm
 Ders materyalleri ve duyurular: [osmancancetlenbik.com](https://osmancancetlenbik.com) · Akademik profil: [AVESİS](https://avesis.mcbu.edu.tr/osman.cetlenbik)
 
 </details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+  <img alt="" src="./assets/footer-dark.svg" width="100%">
+</picture>
